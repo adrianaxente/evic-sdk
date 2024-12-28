@@ -1,0 +1,4 @@
+[submodule "nuvoton-sdk"]
+	path = nuvoton-sdk
+	url = https://github.com/adrianaxente/M451BSP.git
+	branch = dev
